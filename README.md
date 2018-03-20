@@ -1,12 +1,5 @@
-| Build | Download | F-Droid | Contribute | Contact |
-|-------|----------|---------|------------|---------|
-| [![Travis](https://img.shields.io/travis/inorichi/tachiyomi.svg)](https://travis-ci.org/inorichi/tachiyomi) | [![stable release](https://img.shields.io/github/release/inorichi/tachiyomi.svg?maxAge=3600&label=stable)](https://github.com/inorichi/tachiyomi/releases) [![latest dev build](https://img.shields.io/badge/dev-latest%20build-blue.svg)](http://tachiyomi.kanade.eu/latest) | [![fdroid release](https://img.shields.io/badge/stable-f--droid.org-blue.svg)](https://f-droid.org/repository/browse/?fdid=eu.kanade.tachiyomi) [![fdroid dev](https://img.shields.io/badge/dev-wiki-blue.svg)](//github.com/inorichi/tachiyomi/wiki/FDroid-for-dev-versions) | [![Translation status](http://weblate.j2ghz.com/widgets/tachiyomi/-/svg-badge.svg)](https://github.com/inorichi/tachiyomi/wiki/Translation) | [![Discord](https://img.shields.io/discord/349436576037732353.svg)](https://discord.gg/2dDQBv2) |
-
-
-# ![app icon](./.github/readme-images/app-icon.png)Tachiyomi
-Tachiyomi is a free and open source manga reader for Android.
-
-![screenshots of app](./.github/readme-images/screens.png)
+# ![app icon](./.github/readme-images/app-icon.png)MangaReader
+MangaReader is a free and open source manga reader for Android.
 
 ## Features
 
@@ -19,11 +12,6 @@ Features include:
 * Light and dark themes
 * Schedule updating your library for new chapters
 * Create backups locally or to your cloud service of choice
-
-## Download
-Get the app from our [releases page](https://github.com/inorichi/tachiyomi/releases) or from [f-droid](https://f-droid.org/packages/eu.kanade.tachiyomi/).
-
-If you want to try new features before they get to the stable release, you can download the dev version [here](http://tachiyomi.kanade.eu/latest) (auto-updates not included), or add our [F-Droid repo](https://github.com/inorichi/tachiyomi/wiki/FDroid-for-dev-versions).
 
 ## Issues, Feature Requests and Contributing
 
@@ -47,12 +35,6 @@ Please make sure to read the full guidelines. Your issue may be closed without w
 * For large logs use http://pastebin.com/ (or similar)
 * Don't group unrelated requests into one issue
 
-DO: https://github.com/inorichi/tachiyomi/issues/24 https://github.com/inorichi/tachiyomi/issues/71
-
-DON'T: https://github.com/inorichi/tachiyomi/issues/75
-
-</details>
-
 <details><summary>Feature Requests</summary>
 
 * Write a detailed issue, explaning what it should do or how. Avoid writing just "like X app does"
@@ -60,11 +42,6 @@ DON'T: https://github.com/inorichi/tachiyomi/issues/75
 
 Catalogue requests should be created at https://github.com/inorichi/tachiyomi-extensions, they do not belong in this repository.
 </details>
-
-## FAQ
-
-[See our wiki.](https://github.com/inorichi/tachiyomi/wiki/FAQ)
-You can also reach out to us on [Discord](https://discord.gg/WrBkRk4).
 
 ## License
 
