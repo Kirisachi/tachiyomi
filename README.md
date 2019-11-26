@@ -1,4 +1,5 @@
-# ![app icon](./.github/readme-images/app-icon.png)MangaReader
+# ![app icon](./.github/readme-images/app-icon.png)Reader
+(its practically a theme to Tachiyomi)
 MangaReader is a free and open source manga reader for Android.
 
 ## Features
